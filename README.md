@@ -38,7 +38,7 @@
 
 ---
 
-## 👋 About me
+## ✦ About me
 
 I'm an IT student passionate about solving practical problems at the intersection of technology, data, and security. I'm most curious about the unglamorous side of AI: keeping it **reliable, secure, and affordable to operate**.
 
@@ -50,7 +50,7 @@ I use AI every day to move faster and understand problems better. My goal is to 
 
 ---
 
-## 🚀 Featured project: SecureAI Gateway
+## ✦ Featured project: SecureAI Gateway
 
 > A secure gateway that sits between your apps and LLM providers, so API keys, cost, and abuse are managed in one place.
 
@@ -81,7 +81,7 @@ flowchart LR
 
 ---
 
-## 🧩 Other projects
+## ✦ Other projects
 
 **🌐 [Personal portfolio](https://github.com/tranannhtu21012006/myportfolio)** · Next.js + TypeScript site with content managed in Sanity CMS, deployed on Vercel. [Live site](https://myportfolio-billy.vercel.app)
 
@@ -89,7 +89,7 @@ flowchart LR
 
 ---
 
-## 🌱 Right now
+## ✦ Right now
 
 | | |
 | --- | --- |
@@ -99,7 +99,7 @@ flowchart LR
 
 ---
 
-## 📫 Let's connect
+## ✦ Let's connect
 
 I'm happy to chat about backend systems, LLM infrastructure, DevOps, or internship opportunities.
 
