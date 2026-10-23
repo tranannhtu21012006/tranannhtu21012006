@@ -44,9 +44,9 @@ I'm an IT student passionate about solving practical problems at the intersectio
 
 I use AI every day to move faster and understand problems better. My goal is to grow into an engineer who can **both build and operate AI well**.
 
-- 🎓 B.Sc. Information Technology at **UEH**, GPA **3.39 / 4.0**, Academic Encouragement Scholarship
-- 🔭 Interested in **DevOps, backend engineering, and AI operations**
-- 🔎 Currently looking for an **internship** (DevOps / AI Ops / Software Engineering)
+ >_ B.Sc. Information Technology at **UEH**, GPA **3.39 / 4.0**, Academic Encouragement Scholarship
+ >_ Interested in **DevOps, backend engineering, and AI operations**
+ >_ Currently looking for an **internship** (DevOps / AI Ops / Software Engineering)
 
 ---
 
@@ -83,9 +83,9 @@ flowchart LR
 
 ## ✦ Other projects
 
-**🌐 [Personal portfolio](https://github.com/tranannhtu21012006/myportfolio)** · Next.js + TypeScript site with content managed in Sanity CMS, deployed on Vercel. [Live site](https://myportfolio-billy.vercel.app)
+**>_ [Personal portfolio](https://github.com/tranannhtu21012006/myportfolio)** · Next.js + TypeScript site with content managed in Sanity CMS, deployed on Vercel. [Live site](https://myportfolio-billy.vercel.app)
 
-**🏫 UEH Campus N network design** · Designed a full campus network (servers, security, VLANs, wireless, CCTV) and configured routers, an ASA firewall, and core switches on Cisco IOS with inter-VLAN routing, plus Web, FTP, and Email servers. [![Google Drive](https://img.shields.io/badge/Google_Drive-Project_files-4285F4?style=flat-square&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1-l67kW7jyiOoOKJqzEUp0QM-4T0r0kBM/view?usp=drive_link)
+**>_ UEH Campus N network design** · Designed a full campus network (servers, security, VLANs, wireless, CCTV) and configured routers, an ASA firewall, and core switches on Cisco IOS with inter-VLAN routing, plus Web, FTP, and Email servers. [![Google Drive](https://img.shields.io/badge/Google_Drive-Project_files-4285F4?style=flat-square&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1-l67kW7jyiOoOKJqzEUp0QM-4T0r0kBM/view?usp=drive_link)
 
 ---
 
